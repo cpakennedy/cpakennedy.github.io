@@ -17,9 +17,7 @@ navbar-links:
   Research: "research"
   Teaching:
     - past teaching: "past"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Photography: "photography"
 
 # --- Logo --- #
 
