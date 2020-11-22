@@ -16,7 +16,7 @@ author: Christopher Kennedy
 navbar-links:
   Research: "research"
   Teaching:
-    - past teaching: "teaching/past"
+    - past teaching: "past"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
