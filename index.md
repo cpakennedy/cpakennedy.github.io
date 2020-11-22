@@ -1,11 +1,6 @@
 ---
+layout: page
 permalink: /
-title: "Christopher Kennedy"
-excerpt: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 About
