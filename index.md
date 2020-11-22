@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I'm currently a PhD student in mathematics at the University of Toronto. When I'm not studying mathematics, I enjoy the search for untracked powder and big mountain lines in Western Canada.
+I'm a PhD student in mathematics at the University of Toronto. I enjoy the search for untracked powder and big mountain lines in Western Canada.
 
 Contact
 ======
