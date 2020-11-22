@@ -7,10 +7,9 @@ permalink: /research
 Research Interests
 ======
   - partial differential equations
-  - 
-  - probability and stochastic processes
+  - probability
+  - applied mathematics
 
 Articles and Preprints
 ======
-  - A Bochner Formula on Path Space for the Ricci Flow, <em>preprint</em> [pdf](/assets/A_Bochner_Formula_on_Path_Space_for_the_Ricci_Flow.pdf) [Arxiv](https://arxiv.org/abs/1909.04193)| 
-  
+  - A Bochner Formula on Path Space for the Ricci Flow, <em>preprint</em> [pdf](/assets/A_Bochner_Formula_on_Path_Space_for_the_Ricci_Flow.pdf) \[[Arxiv](https://arxiv.org/abs/1909.04193) \]  
