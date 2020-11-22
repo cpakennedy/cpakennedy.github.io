@@ -12,5 +12,5 @@ Research Interests
 
 Articles and Preprints
 ======
-  - A Bochner Formula on Path Space for the Ricci Flow, <em>preprint</em> [pdfC | Arxiv]
+  - A Bochner Formula on Path Space for the Ricci Flow, <em>preprint</em> [pdf](/assets/A_Bochner_Formula_on_Path_Space_for_the_Ricci_Flow.pdf) [Arxiv](https://arxiv.org/abs/1909.04193)| 
   
