@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Past Teaching
-permalink: /teaching/past
+permalink: /past
 ---
 
 2020
