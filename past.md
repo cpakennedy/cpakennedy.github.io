@@ -15,3 +15,4 @@ permalink: /past
   - MATA33 Calculus for Management II (Summer)
   - MATA33 Calculus for Management II (Winter)
   
+![](assets/img/KHMR_Whitewall.jpg)
