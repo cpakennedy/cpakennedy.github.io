@@ -13,3 +13,5 @@ Whitewall
 Terminator
 ======
   - [truth or dare](/assets/img/KHMR_Terminator.jpg)
+
+![](assets/img/KHMR_clouds.jpg)
