@@ -1,0 +1,18 @@
+install.packages("devtools")
+devtools::install_github("jhudsl/collegeIncome")
+
+library(collegeIncome)
+data(college)
+devtools::install_github("jhudsl/matahari")
+
+library(matahari)
+dance_start(value = FALSE, contents = FALSE)
+plot(college$median)
+
+college$median
+
+residuals <- (college$median - mean(college$median))/sd(college$median)
+
+Box.test(college$median, lag = 1, type = c("Box-Pierce", "Ljung-Box"), fitdf = 0)
+
+dance_save("~/Desktop/college_major_analysis.rds")
