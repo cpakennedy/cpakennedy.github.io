@@ -16,6 +16,7 @@ author: Christopher Kennedy
 navbar-links:
   Research: "research"
   Teaching:
+    - Current: "current"
     - Past: "past"
   Skiing: "skiing"
 
