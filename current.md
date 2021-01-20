@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Teaching
+title: STAC63
 permalink: /current
 ---
 
