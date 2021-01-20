@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Past Teaching
-permalink: /past
+title: Teaching
+permalink: /teaching
 ---
+
+2021
+======
+  - STAC63 Probability Models (Winter)
 
 2020
 ======
