@@ -16,6 +16,6 @@ Articles and Preprints
 
 Miscellanea
 ======
-  - Partial Solutions to Stochastic Differential Equations by Bernt Øksendal \[[pdf] \]
+  - Partial Solutions to Stochastic Differential Equations by Bernt Øksendal \[[pdf](/assets/Solutions_to_Oksendal.pdf)\]
 
 ![](assets/img/KHMR_Terminator.jpg)
