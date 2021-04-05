@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current
+title: Teaching
 permalink: /current
 ---
 
