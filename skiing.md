@@ -4,14 +4,11 @@ title: Skiing
 permalink: /skiing
 ---
 
-Whitewall
+Kicking Horse
 ======
-  - [head in the clouds](/assets/img/KHMR_clouds.jpg)
-  - [seeing a ghost](/assets/img/KHMR_ridge.jpg)
-  - [Jacob's ladder](/assets/img/KHMR_Whitewall.jpg)
-
-Terminator
-======
-  - [truth or dare](/assets/img/KHMR_Terminator.jpg)
+  - [lookout, Blue Heaven Peak](/assets/img/KHMR_clouds.jpg)
+  - [traverse, Whitewall ridgeline](/assets/img/KHMR_ridge.jpg)
+  - [Bear Chute, Feuz Bowl](/assets/img/KHMR_Whitewall.jpg)
+  - [chutes, Truth and Dare, T1 Ridge](/assets/img/KHMR_Terminator.jpg)
 
 ![](assets/img/KHMR_ridge.jpg)
