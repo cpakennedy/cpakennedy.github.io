@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-permalink: /past
+permalink: /teaching
 ---
 
 2021
