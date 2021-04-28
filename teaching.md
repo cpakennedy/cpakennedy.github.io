@@ -6,6 +6,7 @@ permalink: /teaching
 
 2020-21
 ======
+  - MAT235 Calculus II (Summer)
   - STAC63 Probability Models (Winter) \[[Lecture 11](https://mymedia.library.utoronto.ca/play/b3a9414b831b34b3c0fdeff44c791fb9)\]
 
 2019-20
