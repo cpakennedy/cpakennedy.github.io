@@ -4,6 +4,10 @@ title: Teaching
 permalink: /teaching
 ---
 
+2021-22
+======
+  - APM346 Partial Differential Equations (Winter)
+
 2020-21
 ======
   - MAT235 Calculus II (Summer)
