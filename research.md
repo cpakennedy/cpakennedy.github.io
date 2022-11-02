@@ -7,8 +7,9 @@ permalink: /research
 Research Interests
 ======
   - partial differential equations
-  - probability
+  - water waves
   - applied mathematics
+  - geometric analysis
 
 Articles and Preprints
 ======
