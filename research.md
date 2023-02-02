@@ -7,7 +7,7 @@ permalink: /research
 Research Interests
 ======
 
-My field of research focuses on the analysis of partial differential equations and their applications to geometric analysis and hydrodynamics.
+My field of research focuses on the analysis of partial differential equations and their applications to geometric analysis and mathematical hydrodynamics.
 
   - partial differential equations
   - water waves
