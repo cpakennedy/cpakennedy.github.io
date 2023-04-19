@@ -10,16 +10,18 @@ Research Interests
 My field of research focuses on the analysis of partial differential equations and their applications to geometric analysis and hydrodynamics.
 
   - partial differential equations
-  - water waves
-  - applied mathematics
   - geometric analysis
+  - hydrodynamics
+  - applied mathematics
 
-Articles and Preprints
+Papers and Preprints
 ======
-  - C. Kennedy, A Bochner Formula on Path Space for the Ricci Flow, _Calc. Var._ **62** 83 (2023), 31 pages. \[[journal](https://doi.org/10.1007/s00526-022-02420-3) \| [pdf](/assets/1909.04193.pdf) \| [arxiv](https://arxiv.org/abs/1909.04193)\]
-  - A. Kairzhan, C. Kennedy and C. Sulem, Interaction of Internal and Surface Waves in Deep Water, in preparation.
+  - **Coupling Between Internal and Surface Waves in Deep Water** (joint with Adilbek Kairzhan and Catherine Sulem), in preparation.
+  - **A Bochner Formula on Path Space for the Ricci Flow**, _Calc. Var. PDE_ 62(83), 2023. \[[journal](https://doi.org/10.1007/s00526-022-02420-3) \| [pdf](/assets/1909.04193.pdf) \| [arxiv](https://arxiv.org/abs/1909.04193)\]
 
-Lecture Notes
+
+Theses, Lecture Notes, Etc.
 ======
-  - Solutions to Stochastic Differential Equations, _Oksendal_ \[[pdf](/assets/Solutions_to_Oksendal.pdf)]
+  - **Two Problems in Non-Linear Evolution Equations** (PhD thesis), _University of Toronto_, in preparation.
+  - **Stochastic Differential Equations** (solutions to Oksendal), 2021. \[[pdf](/assets/Solutions_to_Oksendal.pdf)]
 ![](assets/img/KHMR_Terminator.jpg)
