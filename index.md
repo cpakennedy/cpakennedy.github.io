@@ -8,6 +8,7 @@ I'm a PhD candidate in mathematics under the supervision of [Bob Haslhofer](http
 
 Contact Information
 ======
+
   - email: christopherpa _dot_ kennedy _at_ mail _dot_ utoronto _dot_ ca
   - address: HU1016, 215 Huron Street, Toronto, ON, M5S 1A2
 
