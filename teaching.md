@@ -9,7 +9,7 @@ Current Teaching
 
 I am not teaching during the 2022-2023 academic year.
 
-Previous Teaching
+Past Teaching
 ======
 
   - APM346 Partial Differential Equations (Winter 2022)
