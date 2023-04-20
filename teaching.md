@@ -4,10 +4,10 @@ title: Teaching
 permalink: /teaching
 ---
 
-2022-23
+Teaching in 2022-23
 ======
 
-I am not teaching during the 2022-2023 academic year.
+I am not teaching during the 2022-23 academic year.
 
 Past Teaching
 ======
