@@ -4,7 +4,9 @@ title: About
 permalink: /
 ---
 
-I'm a PhD candidate in mathematics under the supervision of [Bob Haslhofer](https://www.math.toronto.edu/roberth/) and [Catherine Sulem](https://www.math.toronto.edu/sulem/) at the University of Toronto. My hobbies include searching for untracked powder and big mountain lines in Western Canada.
+I'm a PhD candidate in mathematics under the supervision of [Catherine Sulem](https://www.math.toronto.edu/sulem/) and [Bob Haslhofer](https://www.math.toronto.edu/roberth/) at the University of Toronto.
+
+My hobbies include searching for untracked powder and big mountain lines in Western Canada.
 
 Contact Information
 ======
