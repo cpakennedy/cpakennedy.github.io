@@ -4,12 +4,12 @@ title: Teaching
 permalink: /teaching
 ---
 
-Teaching in 2022-23
+2022-23
 ======
 
 I am not teaching during the 2022-23 academic year.
 
-Past Teaching
+Previous
 ======
 
   - APM346 Partial Differential Equations (Winter 2022)
