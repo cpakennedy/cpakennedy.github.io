@@ -4,6 +4,8 @@ title: Skiing
 permalink: /skiing
 ---
 
+My hobbies include searching for untracked powder and big mountain lines in Western Canada.
+
 Kicking Horse
 ======
   - [lookout, Blue Heaven Peak](/assets/img/KHMR_clouds.jpg)
