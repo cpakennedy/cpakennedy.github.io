@@ -4,7 +4,7 @@ title: Skiing
 permalink: /skiing
 ---
 
-My hobbies include searching for untracked powder and big mountain lines in Western Canada.
+My hobbies include skiing the steep and deep in Western Canada.
 
 Kicking Horse
 ======
