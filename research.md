@@ -15,7 +15,7 @@ Papers and Preprints
 Thesis, Lecture Notes, Etc.
 ======
 
-  - Two Problems in Non-Linear Evolution Equations (PhD thesis), _University of Toronto_, in preparation.
-  - Stochastic Differential Equations (solutions to Oksendal), 2021. \[[pdf](/assets/Solutions_to_Oksendal.pdf)]
+  - Two Problems in Non-Linear Evolution Equations (PhD thesis), _University of Toronto_, 2023, in preparation. \[TSpace \| pdf\]
+  - Stochastic Differential Equations (solutions to Oksendal), 2021. \[[pdf](/assets/Solutions_to_Oksendal.pdf)\]
 
 ![](assets/img/KHMR_Terminator.jpg)
