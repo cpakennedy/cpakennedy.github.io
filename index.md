@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-I'm a PhD candidate in mathematics under the supervision of [Catherine Sulem](https://www.math.toronto.edu/sulem/) and [Bob Haslhofer](https://www.math.toronto.edu/roberth/) at the University of Toronto.
+I am currently a postdoctoral researcher in partial differential equations and their applications at Queen's University. Previously, I graduated with a PhD in mathematics under the supervision of [Catherine Sulem](https://www.math.toronto.edu/sulem/) and [Bob Haslhofer](https://www.math.toronto.edu/roberth/) at the University of Toronto in 2023.
 
 Contact Information
 ======
