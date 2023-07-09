@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-I am not teaching during the 2022-23 academic year.
+I am teaching MATH 121 Differential and Integral Calculus during fall 2023.
 
 Previous
 ======
