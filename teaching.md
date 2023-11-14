@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-I have taught lower-year courses in calculus (differential, integral and multivariate), analysis and linear algebra as well as upper-year courses in partial differential equations and stochastic processes.
+I have taught lower-year courses in calculus (differential, integral and multivariate), analysis and linear algebra as well as higher-level courses in partial differential equations and stochastic processes.
 
 Queen's
 ======
