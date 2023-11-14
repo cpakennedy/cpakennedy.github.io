@@ -4,9 +4,14 @@ title: Teaching
 permalink: /teaching
 ---
 
-I am teaching MATH 121 Differential and Integral Calculus during fall 2023.
+I am teaching MATH 121 Differential and Integral Calculus during Fall 2023 at Queen's.
 
-Previous
+Queen's
+======
+
+  - MATH 121 Differential and Integral Calculus (Fall 2023)
+
+U of T
 ======
 
   - APM346 Partial Differential Equations (Winter 2022)
