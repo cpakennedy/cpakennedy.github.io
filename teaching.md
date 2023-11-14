@@ -9,6 +9,7 @@ I am teaching MATH 121 Differential and Integral Calculus during Fall 2023 at Qu
 Queen's
 ======
 
+  - APSC 174 Introduction To Linear Algebra (Winter 2024)
   - MATH 121 Differential and Integral Calculus (Fall 2023)
 
 U of T
