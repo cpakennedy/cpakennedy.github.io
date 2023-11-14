@@ -4,7 +4,9 @@ title: Teaching
 permalink: /teaching
 ---
 
+<div style='text-align: justify;'>
 I have taught lower-year courses in calculus (differential, integral and multivariate), real analysis and linear algebra as well as higher-level courses in partial differential equations and stochastic processes.
+</div>
 
 Queen's
 ======
