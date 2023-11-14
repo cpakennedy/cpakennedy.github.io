@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching
 ---
 
-I am teaching MATH 121 Differential and Integral Calculus during Fall 2023 at Queen's.
+I have taught lower-year courses in calculus (univariate and multivariate), analysis and linear algebra as well as upper-year courses in partial differential equations and stochastic processes.
 
 Queen's
 ======
