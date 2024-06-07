@@ -11,7 +11,7 @@ My research interests focus on the analysis of partial differential equations, i
 Papers and Preprints
 ======
 
-  - Interaction Between Long Internal and Free Surface Waves in Deep Water (joint with [Adilbek Kairzhan](https://sites.google.com/view/akairzhan) and [Catherine Sulem](https://www.math.toronto.edu/sulem/)), _in preparation_
+  - Interaction Between Long Internal Waves and Free Surface Waves in Deep Water (joint with [Adilbek Kairzhan](https://sites.google.com/view/akairzhan) and [Catherine Sulem](https://www.math.toronto.edu/sulem/)), _submitted_
   - A Bochner Formula on Path Space for the Ricci Flow, _Calc. Var. PDE_ 62(83), 2023 \[[journal](https://doi.org/10.1007/s00526-022-02420-3) \| [pdf](/assets/1909.04193.pdf) \| [arXiv](https://arxiv.org/abs/1909.04193)\]
 
 Thesis, Lecture Notes, Etc.
