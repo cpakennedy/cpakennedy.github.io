@@ -4,8 +4,8 @@ title: Research
 permalink: /research
 ---
 
-<div style='text-align: justify;' width: 100%>
-My research interests focus on the analysis of partial differential equations, including dispersive and wave evolution equations, and their applications to hydrodynamics and geometric analysis. I am also interested in calculus of variations and stochastic analysis.
+<div style='text-align: justify;' width: 125%>
+My research interests focus on the analysis of partial differential equations, including dispersive and wave evolution equations, and their applications to hydrodynamics and geometric analysis. I am also interested in calculus of variations and stochastic analysis. test
 </div>
 
 Papers and Preprints
