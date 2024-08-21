@@ -4,14 +4,14 @@ title: Research
 permalink: /research
 ---
 
-<div style='text-align: justify;'>
+<div style="text-align: justify;">
 My research interests focus on the analysis of partial differential equations, including dispersive and wave evolution equations, and their applications to hydrodynamics and geometric analysis. I am also interested in calculus of variations and stochastic analysis.
 </div>
 
 Papers and Preprints
 ======
 
-  - Interaction Between Long Internal Waves and Free Surface Waves in Deep Water (joint with [Adilbek Kairzhan](https://sites.google.com/view/akairzhan) and [Catherine Sulem](https://www.math.toronto.edu/sulem/)), _Water Waves (to appear)_ \[[pdf](/assets/2407.21396v1.pdf) \| [arXiv](https://arxiv.org/abs/2407.21396)\]
+  - Interaction Between Long Internal Waves and Free Surface Waves in Deep Water (joint with [Adilbek Kairzhan](https://sites.google.com/view/akairzhan) and [Catherine Sulem](https://www.math.toronto.edu/sulem/)), _Water Waves_, 2024 \[[journal](https://doi.org/10.1007/s42286-024-00102-5) \| [pdf](/assets/2407.21396v1.pdf) \| [arXiv](https://arxiv.org/abs/2407.21396)\]
   - A Bochner Formula on Path Space for the Ricci Flow, _Calc. Var. PDE_ 62(83), 2023 \[[journal](https://doi.org/10.1007/s00526-022-02420-3) \| [pdf](/assets/1909.04193.pdf) \| [arXiv](https://arxiv.org/abs/1909.04193)\]
 
 Thesis, Lecture Notes, Etc.
