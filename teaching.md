@@ -11,6 +11,7 @@ I have taught lower-year courses in calculus (differential, integral and multiva
 Queen's
 ======
 
+  - MTHE 224 Applied Math for Civil Engineers (Fall 2024)
   - APSC 174 Introduction To Linear Algebra (Winter 2024)
   - MATH 121 Differential and Integral Calculus (Fall 2023)
 
