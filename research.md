@@ -15,7 +15,8 @@ Papers and Preprints
   <li> Interaction Between Long Internal Waves and Free Surface Waves in Deep Water (joint with 
     <a href="https://sites.google.com/view/akairzhan/">Adilbek Kairzhan</a> and <a href="https://www.math.toronto.edu/sulem/">Catherine Sulem</a>, <i>Water Waves</i>, 2024 
     [<a href="https://doi.org/10.1007/s42286-024-00102-5">journal</a> | <a href="/assets/2407.21396v1.pdf">pdf</a> | <a href="https://arxiv.org/abs/2407.21396/">arXiv</a>] </li>
-  <li> A Bochner Formula on Path Space for the Ricci Flow, _Calc. Var. PDE_ 62(83), 2023 \[[journal](https://doi.org/10.1007/s00526-022-02420-3) \| [pdf](/assets/1909.04193.pdf) \| [arXiv](https://arxiv.org/abs/1909.04193)\] </li>
+  <li> A Bochner Formula on Path Space for the Ricci Flow, <i>Calc. Var. PDE</i> 62(83), 2023 
+    [<a href="https://doi.org/10.1007/s00526-022-02420-3/">journal</a> | <a href="/assets/1909.04193.pdf">pdf</a> | <a href="https://arxiv.org/abs/1909.04193">arXiv</a>] </li>
 </ul>
 
 Thesis, Lecture Notes, Etc.
