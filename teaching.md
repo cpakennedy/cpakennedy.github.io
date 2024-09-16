@@ -27,5 +27,6 @@ U of T
   <li> MATA31 Calculus for Mathematical Sciences I (Winter 2020) </li>
   <li> MATB24 Linear Algebra II (Fall 2019) </li>
   <li> MATA33 Calculus for Management II (Winter/Summer 2019) </li>
+</ul>
   
 ![](assets/img/KHMR_Whitewall.jpg)
