@@ -23,8 +23,10 @@ Thesis, Lecture Notes, Etc.
 ======
 
 <ul style='width: 120%;'>
-  <li> Two Problems in Non-Linear Evolution Equations (PhD thesis), _University of Toronto_, 2023 \[[TSpace](https://hdl.handle.net/1807/129956) \| [pdf](/assets/Kennedy_Christopher_Pearce_Andrew_202311_PhD_thesis.pdf)\] </li>
-  <li> Stochastic Differential Equations (solutions to Oksendal), 2021 \[[pdf](/assets/Solutions_to_Oksendal.pdf)\] </li>
+  <li> Two Problems in Non-Linear Evolution Equations (PhD thesis), _University of Toronto_, 2023 
+    [<a href="https://hdl.handle.net/1807/129956/">TSpace</a> | <a href="/assets/Kennedy_Christopher_Pearce_Andrew_202311_PhD_thesis.pdf">pdf</a>] </li>
+  <li> Stochastic Differential Equations (solutions to Oksendal), 2021 
+    [<a href="/assets/Solutions_to_Oksendal.pdf">pdf</a>] </li>
 </ul>
 
 Selected Talks
