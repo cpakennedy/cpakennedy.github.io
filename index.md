@@ -12,8 +12,8 @@ Contact Information
 ======
 
 <ul style='width: 120%;'>
-  <li>email: christopher <i>{dot}</i> kennedy <i>{at}</i> queensu <i>{dot}</i> ca</li>
-  <li>address: Jeffery 505, 48 University Avenue, Kingston, ON, K7L 3N6</li>
+  <li> email: christopher <i>{dot}</i> kennedy <i>{at}</i> queensu <i>{dot}</i> ca </li>
+  <li> address: Jeffery 505, 48 University Avenue, Kingston, ON, K7L 3N6 </li>
 </ul>
 
 ![](assets/img/KHMR_clouds.jpg)
