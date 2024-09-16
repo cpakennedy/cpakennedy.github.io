@@ -11,7 +11,9 @@ I am currently a postdoctoral researcher in partial differential equations and t
 Contact Information
 ======
 
-  - email: christopher _dot_ kennedy _at_ queensu _dot_ ca
-  - address: Jeffery 505, 48 University Avenue, Kingston, ON, K7L 3N6
+<ul style='width: 120%;'>
+  <li>email: christopher _dot_ kennedy _at_ queensu _dot_ ca</li>
+  <li>address: Jeffery 505, 48 University Avenue, Kingston, ON, K7L 3N6</li>
+</ul>
 
 ![](assets/img/KHMR_clouds.jpg)
