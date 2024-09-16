@@ -33,7 +33,7 @@ Selected Talks
 ======
 
 <ul style='width: 115%;'>
-  <li> 2024-Sep-10, BIRS Stochastics and Geometry Workshop, Banff, AB </li>
+  <li> 2024-Sep-10, BIRS Stochastics and Geometry Workshop, Banff, AB [<a href="https://www.birs.ca/events/2024/5-day-workshops/24w5314/videos/watch/202409101650-Kennedy.html">video</a>] </li>
   <li> 2024-Jun-26, CAIMS Annual Meeting, Kingston, ON </li>
   <li> 2024-Jun-02, CMS Summer Meeting, Saskatoon, SK </li>
 </ul>
