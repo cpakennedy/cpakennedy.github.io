@@ -23,8 +23,8 @@ Thesis, Lecture Notes, Etc.
 Selected Talks
 ======
 
-  - September 10<sup>th</sup> 2024, BIRS Stochastics and Geometry Workshop, Banff, AB
-  - June 26<sup>th</sup> 2024, CAIMS Annual Meeting, Kingston, ON
-  - June 2<sup>nd</sup> 2024, CMS Summer Meeting, Saskatoon, SK
+  - 2024-Sep-10, BIRS Stochastics and Geometry Workshop, Banff, AB
+  - 2024-Jun-26, CAIMS Annual Meeting, Kingston, ON
+  - 2024-Jun-02, CMS Summer Meeting, Saskatoon, SK
 
 ![](assets/img/KHMR_Terminator.jpg)
