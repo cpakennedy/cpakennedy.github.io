@@ -12,10 +12,9 @@ Queen's
 ======
 
 <ul style='width: 115%;'>
-  <li> MATH 124 Differential and Integral Calculus II (Winter 2025) </li>
+  <li> MATH 121 Differential and Integral Calculus I (Fall 2023, Winter 2025) </li>
   <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) </li>
   <li> APSC 174 Introduction To Linear Algebra (Winter 2024) </li>
-  <li> MATH 121 Differential and Integral Calculus I (Fall 2023) </li>
 </ul>
 
 U of T
