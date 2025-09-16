@@ -26,7 +26,7 @@ Thesis, Lecture Notes, Etc.
 
 <ul style='width: 115%;'>
   <li> Two Problems in Non-Linear Evolution Equations (PhD thesis), <i>University of Toronto</i>, 2023 
-    [<a href="http://hdl.handle.net/1807/129956/">TSpace</a> | <a href="/assets/Kennedy_Christopher_Pearce_Andrew_202311_PhD_thesis.pdf">pdf</a>] </li>
+    [<a href="http://hdl.handle.net/1807/129956">TSpace</a> | <a href="/assets/Kennedy_Christopher_Pearce_Andrew_202311_PhD_thesis.pdf">pdf</a>] </li>
   <li> Stochastic Differential Equations (solutions to Øksendal), 2025 
     [<a href="/assets/Solutions_to_Oksendal.pdf">pdf</a>] </li>
 </ul>
