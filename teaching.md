@@ -11,7 +11,7 @@ I have taught lower-year courses in calculus (differential, integral and multiva
 Queen's University
 ======
 
-<ul style='width:150%;'>
+<ul style='width:120%;'>
   <li> MATH 127 Differential and Integral Calculus I (Fall 2025) </li>
   <li> MATH 121 Differential and Integral Calculus (Winter 2025, Fall 2023) </li>
   <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) [<a href="/assets/224-midterm.pdf">midterm</a> | <a href="/assets/224-final.pdf">final</a>] </li>
@@ -21,7 +21,7 @@ Queen's University
 University of Toronto
 ======
 
-<ul style='width: 150%;'>
+<ul style='width: 120%;'>
   <li> APM346 Partial Differential Equations (Winter 2022) </li>
   <li> MAT235 Calculus II (Summer 2020, Summer 2021) [<a href="/assets/235-A4.pdf">Assignment 4</a>] </li>
   <li> STAC63 Probability Models (Winter 2021) [<a href="/assets/C63-final.pdf">final</a>] </li>
