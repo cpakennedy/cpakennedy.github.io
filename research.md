@@ -12,8 +12,8 @@ Papers and Preprints
 ======
 
 <ul style='width: 115%;'>
-  <li> Analysis of a Rigid Structure Floating in the 
-Viscous Shallow Water Regime (joint with <a href="https://mast.queensu.ca/~gmazzone/">Giusy Mazzone</a>), in preparation </li>
+  <li> Analysis of a Rigid Structure Floating in a Viscous Fluid in the
+Shallow Water Regime (joint with <a href="https://mast.queensu.ca/~gmazzone/">Giusy Mazzone</a>), in preparation </li>
   <li> Interaction Between Long Internal Waves and Free Surface Waves in Deep Water (joint with 
     <a href="https://sites.google.com/view/akairzhan/">Adilbek Kairzhan</a> and <a href="https://www.math.toronto.edu/sulem/">Catherine Sulem</a>), <i>Water Waves</i>, 2024 
     [<a href="https://doi.org/10.1007/s42286-024-00102-5">journal</a> | <a href="/assets/2407.21396v1.pdf">pdf</a> | <a href="https://arxiv.org/abs/2407.21396/">arXiv</a>] </li>
