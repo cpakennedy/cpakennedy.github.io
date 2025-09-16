@@ -8,16 +8,17 @@ permalink: /teaching
 I have taught lower-year courses in calculus (differential, integral and multivariate), real analysis and linear algebra as well as higher-level courses in partial differential equations and stochastic processes.
 </div>
 
-Queen's
+Queen's University
 ======
 
 <ul style='width: 115%;'>
+  <li> MATH 127 Differential and Integral Calculus I (Fall 2025) </li>
   <li> MATH 121 Differential and Integral Calculus (Winter 2025, Fall 2023) </li>
-  <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) </li>
+  <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) </li> [midterm | final]
   <li> APSC 174 Introduction To Linear Algebra (Winter 2024) </li>
 </ul>
 
-U of T
+University of Toronto
 ======
 
 <ul style='width: 115%;'>
