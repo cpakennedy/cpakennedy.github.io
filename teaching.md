@@ -11,10 +11,10 @@ I have taught lower-year courses in calculus (differential, integral and multiva
 Queen's University
 ======
 
-<ul style='width: 150%;'>
+<ul style='width:150%;'>
   <li> MATH 127 Differential and Integral Calculus I (Fall 2025) </li>
   <li> MATH 121 Differential and Integral Calculus (Winter 2025, Fall 2023) </li>
-  <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) </li> [<a href="/assets/224-midterm.pdf">midterm</a> | <a href="/assets/224-final.pdf">final</a>]
+  <li> MTHE 224 Applied Math for Civil Engineers (Fall 2024) [<a href="/assets/224-midterm.pdf">midterm</a> | <a href="/assets/224-final.pdf">final</a>] </li>
   <li> APSC 174 Introduction To Linear Algebra (Winter 2024) </li>
 </ul>
 
