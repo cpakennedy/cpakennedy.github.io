@@ -5,7 +5,7 @@ permalink: /teaching
 ---
 
 <div style='text-align: justify; width: 115%;'>
-I have taught lower-year courses in calculus (differential, integral and multivariate), real analysis and linear algebra as well as higher-level courses in partial differential equations and stochastic processes.
+I have taught larger survey courses in calculus (differential, integral and multivariate), real analysis and linear algebra as well as smaller, more specialised courses in partial differential equations and stochastic processes.
 </div>
 
 Queen's University
