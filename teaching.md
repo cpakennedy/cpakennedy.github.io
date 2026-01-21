@@ -23,7 +23,7 @@ University of Toronto
 
 <ul style='width: 115%;'>
   <li> APM346 Partial Differential Equations (Winter 2022) </li>
-  <li> MAT235 Calculus II (Summer 2020, Summer 2021) [<a href="/assets/235-A3.pdf">Assignment 3</a> | <a href="/assets/235-A4.pdf">Assignment 4</a>] </li>
+  <li> MAT235 Calculus II (Summer 2021, Summer 2020) [<a href="/assets/235-A3.pdf">Assignment 3</a> | <a href="/assets/235-A4.pdf">Assignment 4</a>] </li>
   <li> STAC63 Probability Models (Winter 2021) [<a href="/assets/C63-midterm.pdf">midterm</a> | <a href="/assets/C63-final.pdf">final</a>] </li>
   <li> MATA31 Calculus for Mathematical Sciences I (Winter 2020) </li>
   <li> MATB24 Linear Algebra II (Fall 2019) </li>
