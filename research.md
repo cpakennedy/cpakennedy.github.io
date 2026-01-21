@@ -27,14 +27,15 @@ Thesis, Lecture Notes, Etc.
 <ul style='width: 115%;'>
   <li> Two Problems in Non-Linear Evolution Equations (PhD thesis), <i>University of Toronto</i>, 2023 
     [<a href="http://hdl.handle.net/1807/129956">TSpace</a> | <a href="/assets/Kennedy_Christopher_Pearce_Andrew_202311_PhD_thesis.pdf">pdf</a>] </li>
-  <li> Stochastic Differential Equations (solutions to Øksendal), 2025 
+  <li> Stochastic Differential Equations (solutions to Øksendal), 2026 
     [<a href="/assets/Solutions_to_Oksendal.pdf">pdf</a>] </li>
 </ul>
 
-Selected Talks
+Select Invited Talks
 ======
 
 <ul style='width: 115%;'>
+  <li> 2025-Dec-7, CMS Winter Meeting, Toronto, ON </li>
   <li> 2024-Sep-10, BIRS Stochastics and Geometry Workshop, Banff, AB [<a href="https://www.birs.ca/events/2024/5-day-workshops/24w5314/videos/watch/202409101650-Kennedy.html">video</a>] </li>
   <li> 2024-Jun-26, CAIMS Annual Meeting, Kingston, ON </li>
   <li> 2024-Jun-02, CMS Summer Meeting, Saskatoon, SK </li>
