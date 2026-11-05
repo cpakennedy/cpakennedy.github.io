@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <div style='text-align: justify; width: 115%;'>
-I am currently a postdoctoral researcher in partial differential equations and their applications under the supervision of <a href="https://mast.queensu.ca/~gmazzone/">Giusy Mazzone</a> at Queen's University. Previously, I graduated with a PhD in mathematics under the supervision of <a href="https://www.math.toronto.edu/sulem/">Catherine Sulem</a> and <a href = "https://www.math.toronto.edu/roberth/">Bob Haslhofer</a> at the University of Toronto in 2023.
+I am currently a Coleman visiting assistant professor working  with <a href="https://mast.queensu.ca/~gmazzone/">Giusy Mazzone</a> in the partial differential equations research group at Queen's University. Previously, I graduated with a PhD in mathematics under the supervision of <a href="https://www.math.toronto.edu/sulem/">Catherine Sulem</a> and <a href = "https://www.math.toronto.edu/roberth/">Bob Haslhofer</a> at the University of Toronto in 2023.
 </div>
 
 Contact Information
